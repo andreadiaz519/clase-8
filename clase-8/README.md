@@ -1,8 +1,7 @@
-# React + Vite
+# Clase 08 - inputs controlados y no controlados
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Ejercicio 1
+//Crear un formulario con un input y renderizar el valor
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ejercicio 2
+- Crear un input password en el que muestre/oculte la contraseña al hacer clicken icono
